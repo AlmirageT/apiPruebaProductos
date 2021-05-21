@@ -1,0 +1,21 @@
+{
+  "name": "pruebaapi",
+  "version": "1.0.0",
+  "description": "api consumible prueba",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "author": "ivan saez",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "express-validator": "^6.11.1"
+  }
+}

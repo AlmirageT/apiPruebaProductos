@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombreProducto": "Jugo de Zanahoria",
+      "precioProducto": "500"
+    },
+    {
+      "nombreProducto": "Jugo de Naranja",
+      "precioProducto": "300",
+      "id": 3
+    },
+    {
+      "nombreProducto": "Jugo de Fresa",
+      "precioProducto": "200",
+      "id": 5
+    },
+    {
+      "nombreProducto": "Jugo de alegria",
+      "precioProducto": "5000",
+      "id": 6
+    }
+  ]
+}
